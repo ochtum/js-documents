@@ -1,6 +1,8 @@
 #  JavaScriptとTypeScriptのドキュメントとレポジトリ集
 このレポジトリはJavaScriptやTypeScriptなどについて学習するためのドキュメントやレポジトリをまとめたものになります。
 
-- [Frontend周り](Frontend.md)
-- [JavaScript](./JavaScript.md)
-- [TypeScript](./TypeScript.md)
+- [JavaScript](/JavaScript.md)
+- [TypeScript](/TypeScript.md)
+
+- [Frontend周り](/Frontend.md)
+- [素材集](/Material.md)
