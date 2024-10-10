@@ -6,3 +6,5 @@
 
 - [Frontend周り](/Frontend.md)
 - [素材集](/Material.md)
+
+- [Generative AI](/GenerativeAI.md)
