@@ -1,0 +1,2 @@
+#  JavaScriptとTypeScriptのドキュメントとレポジトリ集
+このレポジトリはJavaScriptやTypeScriptなどについて学習するためのドキュメントやレポジトリをまとめたものになります。
