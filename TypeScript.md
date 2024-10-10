@@ -9,3 +9,5 @@
 ## Repositories
 - [TypeScriptLeaning](https://github.com/ochtum/TypeScriptLeaning)
 　TypeScriptの挙動について学ぶために作成したサンプルソース。TypeScriptとJavaScriptの違いやReactを使った場合のソースコードの変化を知るために作りました。
+- [TypeScript Samples](https://github.com/microsoft/TypeScriptSamples)
+　Microsoftが管理しているコミュニティ駆動のTSサンプル
