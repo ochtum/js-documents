@@ -17,3 +17,5 @@
 　指定したカラーコードの近似色などを確認することができる。
 - [ラッコツールズ](https://rakko.tools/)
 　画像リサイズ、透過画像作成、HTMLコード整形などが使えるWebツール群
+- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=ja)
+　Chrome拡張機能。サイトでどのような技術が使われているか確認することができる。
